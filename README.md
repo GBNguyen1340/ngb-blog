@@ -24,5 +24,5 @@ It free, if you want to use this project for your personal blog.
 
 ## Authors
 
-- [@bgnguyen](https://github.com/GBNguyen1340)
+- [@GBNguyen1340](https://github.com/GBNguyen1340)
 
